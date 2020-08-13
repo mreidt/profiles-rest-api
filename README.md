@@ -11,3 +11,5 @@ Solução:
 ```firewall-cmd --permanent --zone=trusted --add-interface=docker0```
 
 ```firewall-cmd --reload```
+
+from: ```https://github.com/docker/for-linux/issues/955```
